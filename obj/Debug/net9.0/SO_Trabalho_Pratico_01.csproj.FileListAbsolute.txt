@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\bin\Debug\net9.0\SO_Trabalho_Pratico_01.exe
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\bin\Debug\net9.0\SO_Trabalho_Pratico_01.deps.json
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\bin\Debug\net9.0\SO_Trabalho_Pratico_01.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\bin\Debug\net9.0\SO_Trabalho_Pratico_01.dll
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\bin\Debug\net9.0\SO_Trabalho_Pratico_01.pdb
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.sourcelink.json
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.dll
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\refint\SO_Trabalho_Pratico_01.dll
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.pdb
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\SO_Trabalho_Pratico_01.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documents\3º Semestre\2. Sistemas Operacionais\Trabalho Prático 1\SO_Trabalho_Pratico_01\obj\Debug\net9.0\ref\SO_Trabalho_Pratico_01.dll
